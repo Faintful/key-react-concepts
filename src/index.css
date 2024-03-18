@@ -12,4 +12,6 @@ body {
   /* background-color: #2d2834; */
   background: radial-gradient(#27212e, #221530);
   color: #d9c9ee;
+  width: 100vw;
+  height: 100vh;
 }
